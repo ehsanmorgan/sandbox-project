@@ -1,0 +1,375 @@
+
+.navbar-brand{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: 40px;
+    
+
+}
+
+
+
+
+.f-001{
+    flex: inherit;
+    
+
+}
+.nav-item {
+    font-size:medium;
+   
+    
+
+}
+
+.me-5{
+
+    color:black;
+    font-weight: 500;
+
+}
+
+.me-5:hover{
+
+    color:#5eb9f0;
+
+}
+
+.f-005{
+    border-radius: 50px !important;
+    background-color: #54a8c7 !important;
+    margin-top: 22px;
+    margin-right: 5px;
+}
+
+.e-100{
+   margin-top: 200px;
+   
+  
+
+}
+ .e-99{
+    margin-right: 50px;
+    font-family: "DM Serif Display";
+    font-size:xxx-large;
+    font-weight: 600;
+   margin-left: 40px;
+    
+    
+    
+ }
+
+ .e-98{
+    color: #9499a3 !important;
+    font-size: 1.3rem!important;
+    line-height: 1.6 !important;
+    font-weight: 500px;
+    margin-left: 40px;
+    margin-right: 132px;
+    
+   
+
+ }
+
+ .e-97{
+    
+    border: 2px solid #54a8c7 !important;
+    border-radius: 30px !important;
+   background-color:#54a8c7 !important  ;
+   margin-left: 40px
+   
+ }
+
+ .e-96{
+    margin-left: 10px !important;
+    border: 2px solid #54a8c7 !important;
+    border-radius: 30px !important;
+    background-color: aliceblue !important ;
+    color: black !important;
+    
+  }
+
+  .e-96:hover{
+    background-color:#54a8c7 !important ;
+  }
+  .e-90{
+   margin-top: 60px;
+   margin-bottom: 48px
+  }
+  .mybody{
+    background-color: aliceblue;
+    width: auto !important;
+    margin-top: 50px !important;
+    margin-bottom: 200px !important;
+  }
+
+  .imag{
+    width: 400px;
+
+  }
+  
+
+
+
+
+
+  .my-over{
+    width: auto !important;
+    
+    
+  }
+
+  .e-61{
+    color: #9499a3;
+    line-height: 1.6 !important;
+    margin-right: 90px;
+    font-weight: 500 !important;
+    font-size: 1.3rem!important
+    
+    
+  }
+
+  .img-1{
+    width: 120px;
+     margin-top: 40px;
+  }
+.e-1000{
+    margin-top: 25px;
+    margin-bottom: 200px;
+}
+  
+.e-76{
+    margin-right: 143px;
+    font-size: 1.2rem !important;
+    line-height: 1.6 !important;
+    font-weight: 500;
+    color: #9499a3;
+    
+    
+
+}
+
+.my-img{
+    margin-top: 200px !important;
+    background-color: aliceblue !important;
+    margin-bottom: 200px !important;
+    width: auto !important;
+    margin-bottom: 200px !important;
+    
+   
+
+
+}
+.e-55{
+    font-weight: 600;
+    font-size: larger;
+    margin-top: 300px !important;
+    margin-left: 300px;
+    margin-left: 393px
+
+    
+
+
+}
+.e-59{
+    position: absolute;
+    margin-top: -71px;
+    height: 550px;
+}
+.e-20{
+    box-sizing: border-box
+    !important;
+    font-family: var(--bs-body-font-family)
+}
+
+
+
+.flex-container{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    
+   
+}
+
+.e-22{
+    font-weight: 500;
+    -webkit-box-shadow: 5px 5px 8px 5px aliceblue; 
+box-shadow: 5px 5px 8px 5px aliceblue;
+}
+
+.text-center{
+    padding: 20px;
+}
+
+
+
+.my-100{
+    margin-right: 120px;
+    margin-top: 250px !important;
+    width: fit-content;
+    margin-left: 120px
+
+
+}
+
+.ol-2{
+    font-size: large;
+    margin-top: 15px;
+    color: black !important;
+    
+}
+
+.ol-2:hover{
+    color: #5eb9f0 !important;
+}
+
+
+.e-9{
+    font-size: xx-large;
+    font-weight: 500;
+    width: auto;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+    
+}
+    
+.e-101{
+    margin-right: 120px;
+    margin-top: 250px !important;
+    width: fit-content !important;
+    margin-left: 120px
+    
+}
+.p-100{
+    margin-right: 220px !important;
+    margin-bottom: 30px;
+}
+    
+.mb-2{
+    color: black;
+}
+
+.mb-2:hover{
+    color:#5eb9f0 ;
+}
+
+
+
+
+.out-102 {
+	overflow: hidden;
+   
+    
+}
+.out-102 img:hover{
+	transform: scale(1.1);
+	transition: .3s ease-in-out;
+
+	
+}  
+
+.e-200{
+    font-family: var(--bs-body-font-family) !important;
+    margin-right: 200px;
+    margin-left: -99px;
+    font-size: 2,5rem;
+    line-height: 1.2;
+    font-family: "DM Serif Display";
+    font-weight: 500 !important;
+    word-spacing: normal !important;
+    letter-spacing: normal !important
+    
+}
+
+.e-201{
+    color: #9499a3;
+    margin-right: 150px;
+    margin-left: -100px;
+    font-size: 1.2rem!important;
+    line-height: 1.6;
+    font-family: var(--bs-body-font-family) !important;
+    
+}
+
+.e-202{
+    display: inline !important;
+    padding: 15px !important;
+    margin-right: 189px;
+    margin-left: -99px;
+    border: 1px solid #54a8c7 !important;
+    color: white;
+    background-color: #54a8c7 !important;
+    border-radius: 50px !important;
+}
+
+
+.price-currency{
+    font-size: larger;
+    margin-right: -20px !important;
+}
+
+
+.price-value{
+    font-size: xxx-large;
+}
+.bi-check{
+color: #54a8c7;
+background-color:#e0eff5 ;
+border-radius: 50px;
+}
+.e-203{
+    display: inline !important;
+    padding: 15px !important;
+    border-width: 2px !important;
+    background-color: #54a8c7 !important;
+    border-radius: 50rem !important;
+  
+}
+.e-205{
+    display: inline !important;
+    background-color: #54a8c7 !important;
+    border-radius: 50rem !important;
+}
+.e-206{
+    box-shadow: 0 .50rem 2rem rgba(30,34,40,.07)!important;
+}
+.e-300{
+    margin-left: -100px;
+    font-family: "DM Serif Display";
+    font-size: xxx-large;
+    font-weight: 600;
+}
+.e-301{
+    margin-left: -100px;
+    margin-right: 100px;
+    color: #9499a3 !important;
+    font-size: 1.3rem!important;
+    line-height: 1.6 !important;
+}
+.bi-bezier{
+    margin-left: -100px;
+    margin-bottom: -100px;
+    background-color: #e0eff5;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    
+}
+.e-400{
+    margin-right: 71px;
+    margin-left: -6px
+    
+}
+.e-402{
+    margin-left: -40px;
+    
+}
+.e-404{
+    font-weight: 700px !important;
+    margin-left: -6px
+}
+.e-406{
+    margin-top: 190px;
+}
